@@ -1,0 +1,3 @@
+UN: fortinok
+PW: This is my account at FAL 11
+URL: https://www.schweizerbart.de/submit/fal/index.php/fal/author
