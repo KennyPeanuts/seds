@@ -1,0 +1,55 @@
+
+
+Dear Dr. Fortino,
+
+We have received the reports from our advisors on your manuscript, "Patterns in the percent sediment organic matter of arctic lakes", which you submitted to Hydrobiologia.
+
+Based on the advice received, the Editors feel that your manuscript could be reconsidered for publication should you be prepared to incorporate revisions. When preparing your revised manuscript, you are asked to carefully consider the reviewer comments which are attached, and submit a list of responses to the comments. YOU ARE KINDLY REQUESTED TO ALSO CHECK THE WEBSITE FOR POSSIBLE REVIEWER ATTACHMENTS!
+
+In order to submit your revised manuscript, please access the following web site:
+
+    http://hydr.edmgr.com/
+
+Your username is: fortinok
+Your password is: fortino326837
+
+Note: When uploading your revised files, please make sure only to submit your editable source files (i. E. Word, tex).
+
+We look forward to receiving your revised manuscript before 27 Oct 2015.
+
+With kind regards,
+Springer Journals Editorial Office
+Hydrobiologia
+
+COMMENTS TO THE AUTHOR:
+
+Dear authors,
+Your revised manuscript has been re-reviewed. Although you have adequately addressed previous reviewer comments and the quality has been improved, revision is needed before being recommended for publication according to the reviewer. The comments can be found below. Additionally, please check the format of your manuscript if it follows the format of Hydrobiologia.
+
+With my best regards,
+
+Zhengwen
+
+
+
+Reviewer #4: HYDR - D - 15-00009R1: "Patterns in the percent sediment organic matter of arctic lakes" by Fortino et al.
+
+This revised manuscript describes a survey of sediment organic matter from a number of lakes in the region of Toolik Lake, Alaska. The authors have adequately addressed previous reviewer comments and given reasons why they disagree with comments. One exception is the second comment by reviewer 1 that pertains to the use of a single water column profile to define photosynthetic activity and light attenuation for the lake. This data is then compared to sediment OM that represents multiple years of accumulation. Paleolimnologists often make these time-transgressive comparisons (e.g. for paleoecological training sets), so I'm not saying the author's should remove it, but this should be acknowledged in the paper. I think the most interesting finding from your work is the connection between your measured littoral OM and the measured light attenuation and DO. I'm a little skeptical of the OM accumulation and loss rates.
+
+The subject matter of this paper is suitable for Hydrobiologia, however I have a number of comments that need addressing. Also attached is an annotated copy of the manuscript with minor comments and suggestions.
+
+General comments:
+1. Shallow and deep areas of a lake integrate very different amounts of sediment due to focusing (acknowledged in the paper L284). So in reality there are multiple timescales being directly compared between the shallow and deep cores. It's likely that the slow sediment accumulation and large sample smooths out much of the variability within the lake, which is why the deep and shallow sites are so similar. This should acknowledged somewhere in the paper.
+
+2. I'm not sure why only 2 cores were taken per lake. If you want evaluate the within lake variability of a lake many more should have been analyzed. Given the effort required to get to these lakes, this is a missed opportunity. No reply necessary.
+
+3. Dating: Are there any 137Cs results that could be used to help with the chronology? I don't think the CIC is the right model. To use the CIC model you should have a monotonic trend in 210Pb which does not appear to be the case. This is exemplified in core GTH91, where it appears that 210Pb is near background at around 6cm probably representing the 150 year limit of this radioisotope based on a half-life of 22.3 years.
+
+4. The dry mass accumulation rate (DMAR) is not focus-corrected. In order to compare the DMAR from one lake to another you need to account for focusing to the core site. This impacts your calculations on OM storage (L237-242 and L246-249) but probably does not impact your calculations on OM diagenesis (L233-237). To focus-correct the accumulation rates use the cumulative unsupported 210Pb flux and compare to the atmospheric 210Pb flux for the region, this is your "focus factor". For the atmospheric 210Pb flux I suggest looking at Lamborg et al (2013. Sci Tot Env 448:132-140) or contacting Dan Engstrom at the St. Croix Watershed Research Station, Science Museum or Minnesota.
+
+5. The ages of the cores range from 60-150 yrs. Gälman et al (2008. Limnol Oceanogr 53:1076-1082) showed that C is probably not lost much after the first 5 years following deposition. I don't think the trend in %OM you find reflects continued OM diagenesis, just variations in benthic production. Meaning I'm skeptical of the calculated OM diagenesis/loss rates (Table 3).
+
+__
+There is additional documentation related to this decision letter. To access the file(s), please click the link below. You may also login to the system and click the 'View Attachments' link in the Action column.
+http://hydr.edmgr.com/l.asp?i=177977&l=3EYA0ONX
+
