@@ -1,9 +1,0 @@
-
-Ken,
- 
-Sorry to be so slow getting back to you.  Your email was buried.
- 
-I don't think Lamborg et al. uses the corrections.  I believe the reviewer was just suggesting a reference for the atmospheric flux. And again, I don't know if the site in Lamborg et al. would be representative of your sites or not.  The problem is making whole lake comparisons using a single (or few) cores per lake.  Sediment focusing can cause some sites to be higher (others lower) than lake average.  So in your lake to lake comparison you are actually comparing one coring site in one lake to another core site in other lake and not actually one lake to another.  In this case I do not favor making the correction. Considering the uncertainties I don't see it being a meaningful calculation. You are really just comparing loss rates which are similar at the coring sites and assuming they are representative of the lake.
- 
-Does that help?
-
