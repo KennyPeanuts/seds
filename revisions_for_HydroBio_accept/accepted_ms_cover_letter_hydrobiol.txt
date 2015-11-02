@@ -2,6 +2,9 @@ Dear Editor,
 
 Please find our revised manuscript (HYDR-D-15-00009). We have considered the reviewer's comments carefully and have revised to manuscript to incorporate their suggestions. A detailed description of our response to each reviewer comment is provided below. The numbered entries are quoted from the reviewer's comments and our response is in the un-numbered paragraph below.
 
+
+## Written Comments
+
 1. a single water column profile to define photosynthetic activity and light attenuation for the lake. This data is then compared to sediment OM that represents multiple years of accumulation. Paleolimnologists often make these time-transgressive comparisons (e.g. for paleoecological training sets), so I'm not saying the author's should remove it, but this should be acknowledged in the paper.
 
 In accordance with the reviewer suggestion we acknowledge in the Discussion that our comparison of dissolved oxygen, transparency, and sediment organic matter is complicated by the fact that these processes vary across different time scales [lines 276 - 279]
@@ -24,4 +27,26 @@ We agree with the reviewer that sediment focusing could introduce some bias into
 
 We certainly agree with the reviewer that patterns in organic matter with depth result from the combined effects of deposition and mineralization. On line 215 we indicate that our estimate of organic matter loss rates requires the assumption of a constant sediment accumulation rate and so we feel that we make clear the limitations of our estimate. We further develop this point when we discuss the lack of evidence of organic matter loss with depth in GTH 91 on line 261, where we acknowledge that changes in the input of organic matter to the sediments over time can affect the attribution of organic matter loss to mineralization. The reviewer cites Galman et al 2008 to indicate that organic matter is not mineralized significantly after 5 years in the sediment but we feel that the results of Galman et al are not necessarily representative of our study system. Galman et al. 2008 studied a varve lake that would be subject to much different sedimentation and mineralization patterns than the lakes in our study.  Based on the profiles of our cores, all we can show is that organic matter was lost with depth and using the sedimentation rates estimated from the 210-Pb analysis, we report the loss rate per year. 
 
+## Comments in the Manuscript
 
+Line 26 - Corrected the word order as suggested by the reviewer.
+
+Line 28 - Replaced photosynthesis rates with production as suggested by the reviewer.
+
+Line 59 - The reviewer questions whether a source referencing marine sediments is appropriate given that our study is in freshwater. In this statement in the manuscript we are simply defining the endpoint of organic matter mineralization on geologic time scales. We feel that given the very broad nature of the point that we are making, combined with the fact that over geologic time, there would be little difference between marine and freshwater processes, that this reference is appropriate.
+
+Line 70 - Corrected the typo pointed out by the reviewer.
+
+Line 149 - Our use of 210-Pb rather than 137-Cs is explained in point 3 above.
+
+Line 174 - The reviewer questions whether the data were transformed. The data were not transformed.
+
+Line 266 - We corrected the error in Table 1 identified by the reviewer.
+
+Line 312 - We replaced "euphotic" with "littoral" as suggested by the reviewer. Littoral is not as technically correct but does not substantially change the meaning of the statement and is less likely to cause confusion.
+
+Line 314 - The reviewer suggests that we evaluate the organic matter profile from Lake N-1 to support our supposition that the experimental fertilization may have created the increase in sediment organic matter in the shallow-water sediments. This was a good suggestion and the evaluation shows that it is very unlikely that the fertilization caused this increase because the increase is evident all the way to the base of the core. Therefore, we have removed this as a potential explanation.
+
+Line 323 - Corrected typo identified by the reviewer.
+
+Line 331 - Replaced "constrained" with "minor" as suggested by the reviewer.
